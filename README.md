@@ -1,6 +1,7 @@
 # Dicee-Game
 [Live Demo Link](https://dicee-game-psi.vercel.app/)
 
-![Ekran görüntüsü 2023-10-09 221552](https://github.com/hakanduyar/Dicee-Game/assets/79376651/00abf6fc-5e7a-4b17-8b1a-e24e49e8b6f5)
-![Ekran görüntüsü 2023-10-09 221526](https://github.com/hakanduyar/Dicee-Game/assets/79376651/c6d34393-20e6-4bdc-b21b-294fc4bd74bb)
-![Ekran görüntüsü 2023-10-09 221445](https://github.com/hakanduyar/Dicee-Game/assets/79376651/b66f960e-133c-49e2-b887-13e69259004b)
+![Ekran görüntüsü 2023-10-11 174356](https://github.com/hakanduyar/Dicee-Game/assets/79376651/ec224a61-68aa-40e0-aeaa-9cc6b8737ec1)
+![Ekran görüntüsü 2023-10-11 174427](https://github.com/hakanduyar/Dicee-Game/assets/79376651/9c41b00b-4088-4ba5-97b3-d65d3736ad65)
+![Ekran görüntüsü 2023-10-11 174325](https://github.com/hakanduyar/Dicee-Game/assets/79376651/cfc882b7-41df-47ac-b885-8dbb398c914d)
+
